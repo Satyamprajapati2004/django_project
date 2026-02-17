@@ -18,60 +18,6 @@ Yeh ek web-based **Employee Management System** hai jise **Django** framework ka
 * **Database:** SQLite (Development ke liye) / PostgreSQL (Production ke liye)
 * **Frontend:** HTML5, CSS3, Bootstrap (responsive design ke liye)
 
-## 📋 Prerequisites
 
-Is project ko chalane ke liye aapke system mein ye installed hona chahiye:
-
-* Python (3.x)
-* pip (Python package manager)
-
-## ⚙️ Installation Steps
-
-1.  **Repository Clone karein:**
-    ```bash
-    git clone [https://github.com/yourusername/employee-management-system.git](https://github.com/yourusername/employee-management-system.git)
-    cd employee-management-system
-    ```
-
-2.  **Virtual Environment banayein aur activate karein:**
-    ```bash
-    python -m venv venv
-    # Windows ke liye:
-    venv\Scripts\activate
-    # Linux/Mac ke liye:
-    source venv/bin/activate
-    ```
-
-3.  **Dependencies install karein:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Database Migrations run karein:**
-    ```bash
-    python manage.py makemigrations
-    python manage.py migrate
-    ```
-
-5.  **Admin User banayein:**
-    ```bash
-    python manage.py createsuperuser
-    ```
-
-6.  **Development Server chalayein:**
-    ```bash
-    python manage.py runserver
-    ```
-
-
-
-7.  **Browser mein check karein:**
-    Ab aap browser mein `http://127.0.0.1:8000/` open karke app ko use kar sakte hain.
-
-## 👥 Usage
-
-* **Admin Panel:** Aap `/admin` URL par jaakar database records ko manage kar sakte hain.
-* **Frontend:** Main UI ke zariye aap employees ki details manage kar sakte hain.
-
----
+    
 Made with ❤️ using Django.
