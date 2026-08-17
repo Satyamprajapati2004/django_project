@@ -575,11 +575,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# ❤️ Built With
 
-**Made with ❤️ using Python and Django.**
-
----
 
 # 📄 License
 
