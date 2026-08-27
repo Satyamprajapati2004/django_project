@@ -1,6 +1,6 @@
-# 👨‍💼 Employee Management System
+#  Employee Management System
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Employee Management System** is a web-based application developed using the **Django framework** to efficiently manage employee information, departments, and organizational roles.
 
@@ -10,7 +10,7 @@ The project demonstrates practical implementation of **Django web development, d
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The primary objectives of this project are:
 
@@ -26,7 +26,7 @@ The primary objectives of this project are:
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text id="r9d4f1"
                     User / Admin
@@ -61,9 +61,9 @@ The primary objectives of this project are:
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
-## 👤 Employee Management
+##  Employee Management
 
 The system provides complete CRUD functionality for employee records.
 
@@ -80,7 +80,7 @@ This provides a centralized solution for maintaining employee information.
 
 ---
 
-# 🏢 Department Management
+#  Department Management
 
 The application allows administrators to manage organizational departments.
 
@@ -96,7 +96,7 @@ This makes it easier to organize employees according to their respective teams o
 
 ---
 
-# 🔐 Authentication
+#  Authentication
 
 The application includes authentication functionality to secure administrative features.
 
@@ -111,7 +111,7 @@ Authentication helps prevent unauthorized access to employee management function
 
 ---
 
-# 🔎 Search & Filter
+#  Search & Filter
 
 The system provides employee search and filtering capabilities.
 
@@ -124,7 +124,7 @@ This makes it easier to locate specific employee records, especially as the numb
 
 ---
 
-# 🎨 User-Friendly Interface
+#  User-Friendly Interface
 
 The application uses **HTML5, CSS3, and Bootstrap** to provide a clean and responsive interface.
 
@@ -153,7 +153,7 @@ The UI is designed to be:
 
 ---
 
-# 🗄️ Database
+#  Database
 
 ## SQLite
 
@@ -184,7 +184,7 @@ Production
 
 ---
 
-# 🔄 Application Workflow
+#  Application Workflow
 
 ```text id="k2v8p6"
 Admin Login
@@ -210,7 +210,7 @@ Delete / View    Delete / View
 
 ---
 
-# 📊 Employee Management Workflow
+#  Employee Management Workflow
 
 The employee management module follows a standard CRUD workflow:
 
@@ -268,7 +268,7 @@ This relationship allows employee information to be organized according to depar
 
 ---
 
-# 📂 Recommended Project Structure
+#  Recommended Project Structure
 
 ```text id="c6p1y8"
 Employee-Management-System/
@@ -306,7 +306,7 @@ Employee-Management-System/
 
 ---
 
-# ⚙️ Installation & Setup
+#  Installation & Setup
 
 ## Prerequisites
 
@@ -379,7 +379,7 @@ This creates the required database tables.
 
 ---
 
-# 👤 Create Admin User
+#  Create Admin User
 
 Create a Django superuser:
 
@@ -395,7 +395,7 @@ Follow the terminal prompts to configure:
 
 ---
 
-# ▶️ Run the Application
+#  Run the Application
 
 Start the Django development server:
 
@@ -407,7 +407,7 @@ The application can then be accessed through the local development server.
 
 ---
 
-# 🔐 Admin Dashboard
+#  Admin Dashboard
 
 Django's built-in administration functionality can be used to manage application data.
 
@@ -420,23 +420,23 @@ The admin panel can provide centralized access to:
 
 ---
 
-# ⭐ Key Highlights
+#  Key Highlights
 
-* 👤 Complete employee CRUD operations
-* 🏢 Department management
-* 🔐 Authentication and login/logout
-* 🔎 Employee search
-* 🎯 Department-based filtering
-* 🎨 Responsive Bootstrap interface
-* 🗄️ SQLite development database
-* 🐘 PostgreSQL production support
-* 🐍 Python Django backend
-* 📱 Responsive web design
-* 🗃️ Django ORM-based database management
+*  Complete employee CRUD operations
+*  Department management
+*  Authentication and login/logout
+*  Employee search
+*  Department-based filtering
+*  Responsive Bootstrap interface
+*  SQLite development database
+*  PostgreSQL production support
+*  Python Django backend
+*  Responsive web design
+*  Django ORM-based database management
 
 ---
 
-# 💼 Business Value
+#  Business Value
 
 An Employee Management System can help organizations maintain employee information in a centralized and structured way.
 
@@ -452,9 +452,9 @@ The system can support:
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
-## 📊 Employee Dashboard
+##  Employee Dashboard
 
 Add dashboard metrics such as:
 
@@ -465,7 +465,7 @@ Add dashboard metrics such as:
 
 ---
 
-## 📈 Advanced Reporting
+##  Advanced Reporting
 
 Add reports for:
 
@@ -477,7 +477,7 @@ Add reports for:
 
 ---
 
-## 👤 Employee Profiles
+##  Employee Profiles
 
 Create detailed employee profile pages containing:
 
@@ -490,7 +490,7 @@ Create detailed employee profile pages containing:
 
 ---
 
-## 🔔 Notifications
+##  Notifications
 
 Add notifications for:
 
@@ -501,7 +501,7 @@ Add notifications for:
 
 ---
 
-## 🔐 Role-Based Access Control
+##  Role-Based Access Control
 
 Implement different permission levels such as:
 
@@ -521,7 +521,7 @@ Department Manager
 
 ---
 
-## ☁️ Production Deployment
+##  Production Deployment
 
 Future versions can be deployed using cloud platforms with:
 
@@ -533,7 +533,7 @@ Future versions can be deployed using cloud platforms with:
 
 ---
 
-# 📌 Project Information
+#  Project Information
 
 **Project Name:** Employee Management System
 
@@ -551,7 +551,7 @@ Future versions can be deployed using cloud platforms with:
 
 ---
 
-# 👨‍💻 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -576,6 +576,6 @@ This project demonstrates practical experience in:
 
 
 
-# 📄 License
+#  License
 
 This project is intended for educational, portfolio, and web development demonstration purposes.
